@@ -4,13 +4,12 @@ import java.util.Map;
 
 public class HashMapExample {
 
-	/**
-	 * @param args
-	 */
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		Map<String, String>map = new HashMap<>();
+		
 		 
 		 //put element to the map
 		 map.put("one", "Amirul");
